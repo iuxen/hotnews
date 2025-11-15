@@ -4,6 +4,7 @@ Moutai Group
 
 段永平
 雪球
+方三文
 
 DeepSeek
 梁文锋
@@ -111,6 +112,15 @@ A股
 
 新质生产力
 习近平
+
+比特币
+数字资产
+以太坊
+Bitcoin
+Digital Assets
+Ethereum
+
+
 
 Kweichow Moutai  
 Moutai Group  
