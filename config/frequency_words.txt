@@ -41,14 +41,10 @@ iPhone
 !fruit
 !价格
 
-
 PDD Holdings
 拼多多
 PDD
 Temu
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
@@ -67,22 +63,17 @@ chatgpt
 openai
 sora
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
-
 自动驾驶
-机器
 
 美国
 日本
 中国
 台湾
+上海
+
 台海
 黄海
 南中国海
@@ -92,8 +83,6 @@ ai
 军事
 国防部
 战争
-
-新质生产力
 
 家具
 全屋定制
@@ -119,101 +108,3 @@ A股
 Bitcoin
 Digital Assets
 Ethereum
-
-
-
-Kweichow Moutai  
-Moutai Group  
-
-Duan Yongping  
-Snowball  
-
-DeepSeek  
-Liang Wenfeng  
-
-Huawei  
-Hongmeng  
-HarmonyOS  
-Ren Zhengfei  
-
-BYD  
-Wang Chuanfu  
-
-Midea  
-Fang Hongbo  
-
-Xiaomi  
-Lei Jun  
-
-Berkshire Hathaway  
-Buffett  
-Warren Edward Buffett  
-
-Apple  
-Tim Cook  
-iPhone  
-!Fruit  
-!Price  
-
-PDD Holdings  
-Pinduoduo  
-Temu  
-
-Microsoft  
-
-NVIDIA  
-Jensen Huang  
-
-Tencent  
-Pony Ma  
-
-Google  
-Gemini  
-DeepMind  
-
-ChatGPT  
-OpenAI  
-SORA  
-
-iPhone  
-iPad  
-Mac  
-iOS  
-
-AI  
-!GAI  
-Artificial Intelligence  
-
-Autonomous Driving  
-Machines  
-
-United States  
-Japan  
-China  
-Taiwan  
-Taiwan Strait  
-Yellow Sea  
-South China Sea  
-
-Trump  
-
-Military  
-Department of Defense  
-War  
-
-New Quality Productivity  
-
-Furniture  
-Whole House Customization  
-Furniture Export  
-Home Furnishing  
-
-A-Share  
-Shanghai Stock Exchange  
-Shenzhen Stock Exchange  
-U.S. Stocks  
-S&P Index  
-Hong Kong Stocks  
-Hang Seng Index  
-+Rise and Fall  
-!Forecast
